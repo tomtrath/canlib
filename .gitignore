@@ -17,3 +17,6 @@
 *.app
 /Release
 /.gitignore
+
+/.dep
+*.lst
